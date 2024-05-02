@@ -1,7 +1,7 @@
 # DGS-project
 DGS database project
 
-In the ./files directory are the test.vcf and the annotated files. (the clinvar.vcf is not inside because it is too heavy)
+In the ./files directory are the test.vcf and the annotated files. (the clinvar.vcf is not inside because it is too heavy). There is also a directory ./csvFiles/* whith the files for each table of the diagram.
 
 In the ./scripts are the scripts I used to do each step:
 - download.py
