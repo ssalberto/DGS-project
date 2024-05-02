@@ -1,0 +1,5 @@
+﻿CLINICAL_SIGNIFICANCE;METHOD;VARIANT_ORIGIN;REVIEW_STATUS;SUBMITTER;RS_ID;NAME_DB
+Pathogenic;snpSift;1;reviewed_by_expert_panel;ClinGen;587781299;ClinGen
+Pathogenic;snpSift;1;reviewed_by_expert_panel;ClinGen;180177102;ClinGen
+Pathogenic;snpSift;1;reviewed_by_expert_panel;ClinGen;80356993;ClinGen
+Pathogenic;snpSift;1;reviewed_by_expert_panel;Breast_Cancer_Information_Core_(BIC)_(BRCA1);80358158;Breast_Cancer_Information_Core_(BIC)_(BRCA1)
